@@ -1,6 +1,6 @@
-![GitHub License](https://img.shields.io/github/license/rightsoftner/ts-simple-start)
+![GitHub License](https://img.shields.io/github/license/nerovnia/converter-m3u-csv)
 
-# ts-simple-start
+# converter-m3u-csv
 
 # Use commands for work:
 
