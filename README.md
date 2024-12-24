@@ -2,7 +2,9 @@
 
 # converter-m3u-csv
 
-# Use commands for work:
+## Use commands for work:
+
+Before start
 
 ```bash
 npm start
@@ -17,3 +19,5 @@ Put your file stations.m3u to the ./res directory
 npm build
 npm start
 ```
+
+Get result stations.csv file in the ./res directory
