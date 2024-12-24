@@ -1,7 +1,7 @@
 {
-  "name": "ts-simple-start",
+  "name": "converter-m3u-csv",
   "version": "0.0.1",
-  "description": "",
+  "description": "m3u csv converter",
   "main": "./dist/main.js",
   "scripts": {
     "start": "node --env-file=.env ./dist/main.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rightsoftner/ts-simple-start.git"
+    "url": "git+ssh://git@github.com:nerovnia/converter-m3u-csv.git"
   },
   "author": "Volodymyr Nerovnia <nerv@i.ua>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rightsoftner/ts-simple-start/issues"
+    "url": "https://github.com/nerovnia/converter-m3u-csv/issues"
   },
-  "homepage": "https://github.com/rightsoftner/ts-simple-start#readme",
+  "homepage": "https://github.com/nerovnia/converter-m3u-csv#readme",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.10.2",

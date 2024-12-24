@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/rightsoftner/ts-simple-start)
+
 # ts-simple-start
 
 # Use commands for work:
