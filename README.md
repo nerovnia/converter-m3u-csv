@@ -8,3 +8,10 @@ npm build
 npm dev
 npm test
 ```
+
+Put your file stations.m3u to the ./res directory
+
+```bash
+npm build
+npm start
+```
